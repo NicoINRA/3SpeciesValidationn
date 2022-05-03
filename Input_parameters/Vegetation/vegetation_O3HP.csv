@@ -1,0 +1,47 @@
+Name;Value
+Foliage;Deciduous
+P50_VC_Leaf; -5.2
+slope_VC_Leaf;37.5
+P50_VC_Stem; -5.2
+slope_VC_Stem;37.5
+P12_gs;-1
+P88_gs;-3
+epsilonSym_Leaf;11.4
+PiFullTurgor_Leaf; -2.9
+apoFrac_Leaf;0.4
+LDMC;500
+LMA;110
+k_PlantInit;0.8
+k_SSymInit;0.26
+canopyStorageParam;1.5
+K;0.5
+Tbase;3
+Fcrit;450
+PTcoeff;1.14
+gmin20;4
+TPhase_gmin;37.5
+Q10_1_gmin;1.2
+Q10_2_gmin;4.8
+gmin_S;2
+gCrown0;150
+gsMax;220
+gsNight;20
+JarvisPAR;0.003
+Tgs_sens;17
+Tgs_optim;25
+fRootToLeaf;1
+rootRadius;0.0002
+betaRootProfile;0.99 
+PiFullTurgor_Stem;11.4
+epsilonSym_Stem; -2.9
+apoFrac_Stem;0.4
+symFrac_Stem;0.2
+vol_Stem;10
+fTRBToLeaf;0.8
+C_LApoInit;0.00001
+C_SApoInit;0.00002
+turgorPressureAtGsMax;2
+PsiStartClosing;-1
+PsiClose;-3.3
+dayStart;5
+nbdayLAI;15

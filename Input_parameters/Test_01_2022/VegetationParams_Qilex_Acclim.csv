@@ -1,0 +1,47 @@
+Name;Value;Value;;;;;Unit
+P50_VC_Leaf; -7.5; -6.7;;;;;Mpa
+slope_VC_Leaf;29.5;29.5;;;;;%/Mpa
+EpsilonSymp_Leaf;12;12;;;;;Mpa
+PiFullTurgor_Leaf; -3.1; -2.8;;;;;Mpa
+ApoplasmicFrac_Leaf;0.45;0.45;;;;;-
+P50_VC_Trunk; -7.5; -6.7;;;;;Mpa
+slope_VC_Trunk;29.5;29.5;;;;;%/Mpa
+EpsilonSymp_Trunk;12;12;;;;;Mpa/%
+PiFullTurgor_Trunk; -3.1; -2.8;;;;;Mpa
+ApoplasmicFrac_Trunk;0.4;0.4;;;;;-
+SymplasmicFrac_Trunk;0.2;0.2;;;;;-
+LDMC;580;580;;;;;fraction
+Succulence;133;133;;;;;g/m2
+LMA;182;182;;;;;g/m2
+kPlantInit;0.62;0.62;;;;;mmol/m2/s/Mpa
+k_TSymInit;0.26;0.26;;;;;mmol/m2/s/Mpa
+VolumeLiving_TRB;18.2;18.2;;;;;(mm or sapwood litre/m2 of soil)
+fRootToLeaf;1;1;;;;;-
+rootRadius;0.0002;0.0002;;;;;m
+betaRootProfile;0.97;0.97;;;;;-
+C_LApoInit; 0.00001; 0.00001;;;;;mmol/m2 leaf/Mpa
+C_TApoInit; 0.00002; 0.00002;;;;;mmol/m2 leaf/Mpa
+gCrown0;45;45;;;;;mmol/m2/s
+gsMax;225;225;;;;;mmol/m2/s
+gsNight;20;20;;;;;mmol/m2/s
+JarvisPAR;0.006;0.006;;;;;-
+Tgs_sens;17;17;;;;;-
+Tgs_optim;25;25;;;;;-
+P12_gs; -1.5; -1.5;;;;;Mpa
+P88_gs; -2.9; -2.9;;;;;Mpa
+turgorPressureAtGsMax;1;1;;;;;Mpa
+gmin20;4;4;;;;;mmol/m2/s
+TPhase_gmin;45.839556;45.839556;;;;;¡C
+Q10_1_gmin;1.04270568062456;1.04270568062456;;;;;mmol/m2/s /10¡C
+Q10_2_gmin;1.64129642314098;1.64129642314098;;;;;mmol/m2/s /10¡C
+fTRBToLeaf;0.8;0.8;;;;;m2 wood exposed/m2leaf
+gmin_T;1;1;;;;;mmol/m2/s
+Foliage;Evergreen;Evergreen;;;;;-
+DayStart;55;55;;;;;doy
+Tbase;3;3;;;;;¡C
+Fcrit;450;450;;;;;¡C
+nbdayLAI;21;21;;;;;
+PTcoeff;1.14;1.14;;;;;-
+CanopyStorageParam;1.5;1.5;;;;;mm/m2 leaf
+K;0.5;0.5;;;;;-
+Species;Quercus ilex EXC;Quercus ilex CONT;;;;;
